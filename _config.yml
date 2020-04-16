@@ -28,9 +28,11 @@ twitter_username: jekyllrb
 github_username:  Brgraul
 github: [metadata]
 # Build settings
-theme: jekyll-whiteglass
+remote_theme: yous/whiteglass
+
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
