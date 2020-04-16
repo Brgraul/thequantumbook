@@ -1,19 +1,22 @@
-.site-title{
-    font-size: 3rem;
-    margin-top: 5%;
+.site-title {
+	font-size: 3rem;
+	margin-top: 5%;
 }
 
-p{
-    text-align: justify;
+p {
+	text-align: justify;
 }
 
-body{
-    padding-left: 2%;
-    padding-right: 2%;
+body {
+	padding-left: 2%;
+	padding-right: 2%;
 }
 
 h3 {
-    margin-top: 5%;
-    font-weight: 600;
+	margin-top: 5%;
+	font-weight: 600;
 }
 
+.footer-text {
+	text-align: center;
+}
