@@ -13,6 +13,10 @@ permalink: /
 5. [Most frequent business models in QC](#most-frequent-business-models-in-quantum-computing)
 6. [Example of a sales pipeline for a QC Software Startup](#example-of-a-sales-pipeline-for-a-qc-software-startup)
 7. [Some German QC Startups](#some-german-qc-startups)
+8. [Further learning resources](#further-learning-resources)
+
+   8.1. [For the Business Savvy](#for-the-business-savvy)
+   
 
 ### Why is Quantum Computing relevant?
 
@@ -63,3 +67,10 @@ Business models in quantum computing refers to the part of the
 - **Heisenberg Quantum Systems (HQS)**, Karlsruhe - They use Quantum Computing to solve computational Chemistry problems, like predicting the molecular properties of materials in ways it was not possible before. They have substantial intellectual property (IP) in quantum error correction.
 - **IQM**, Munich - They aim to become a full-stack Quantum Computer provider, building Quantum Computers and the corresponding Sofware.
 - **Quantum-Factory**, Munich - They are a service provider, creating proofs of concept of quantum algorithms for other companies. 
+
+### Further learning resources
+
+#### For the Business Savvy
+* <a href="https://image-src.bcg.com/Images/BCG-The-Next-Decade-in-Quantum-Computing-Nov-2018-21-R_tcm9-207859.pdf" target="_blank">BCG - The Next Decade in Quantum Computing - And How to Play</a>: This report makes an excellent introduction to Quantum Computing (QC). It contains an overview to each of the pieces in the QC value chain and some early applications of the technology.
+
+* <a href="https://image-src.bcg.com/Images/BCG-Where-Will-Quantum-Computers-Create-Value%E2%80%94and-When-May-2019_tcm9-227603.pdf" target="_blank">BCG - Where Will Quantum Computers Create Value—and When?</a>: This report covers some interesting use cases of Quantum technologies and their economic prospects.
